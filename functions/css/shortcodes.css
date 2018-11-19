@@ -31,8 +31,8 @@ TABLE OF CONTENTS:
 /*-------------------------------------------------------------------------------------------*/
 @font-face {
   font-family: 'fontawesome';
-  src: url('../fonts/fontawesome-webfont.eot');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff') format('woff'), url('../fonts/fontawesome-webfont.ttf') format('truetype'), url('../fonts/fontawesome-webfont.svg#fontawesome-webfont') format('svg'), url('../fonts/fontawesome-webfont.woff2#') format('woff2');
+  src: url('../assets/fonts/fontawesome-webfont.eot');
+  src: url('../assets/fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/fontawesome-webfont.woff') format('woff'), url('../fonts/fontawesome-webfont.ttf') format('truetype'), url('../fonts/fontawesome-webfont.svg#fontawesome-webfont') format('svg'), url('../fonts/fontawesome-webfont.woff2#') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
